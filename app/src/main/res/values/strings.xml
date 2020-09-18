@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fry</string>
+    <string name="testView">hello</string>
+    <string name="testView2"></string>
+    <string name="hint1">请输入华氏温度</string>
+    <string name="button">摄氏转华氏</string>
+</resources>
